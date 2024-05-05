@@ -12,7 +12,7 @@ const ibmPlexSerif = IBM_Plex_Serif({
 export const metadata: Metadata = {
   title: "Dzenx Banking Platform",
   description:
-    "Dzenx is a comendable online banking platform that prioritizes user convinience and security.",
+    "Dzenx is a commendable online banking platform that prioritises user convenience and security.",
   icons: {
     icon: "/icons/logo.png",
   },
